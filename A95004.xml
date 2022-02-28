@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter sent unto the right honourable the lord maior of London, from a trusty friend in the army. Written on Munday morning 24. Oct. immediarely [sic] after the battell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95004</idno>
+            <idno type="STC">Wing T2624</idno>
+            <idno type="STC">Thomason E124_18</idno>
+            <idno type="STC">ESTC R5160</idno>
+            <idno type="EEBO-CITATION">99872808</idno>
+            <idno type="PROQUEST">99872808</idno>
+            <idno type="VID">125254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125254)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter sent unto the right honourable the lord maior of London, from a trusty friend in the army. Written on Munday morning 24. Oct. immediarely [sic] after the battell.</title>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the yeare. MDCXLII [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "octob: 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125254:1" rendition="simple:additions"/>
+            <p>A TRVE COPY OF A LETTER Sent unto the Right honourable the LORD MAIOR of LONDON, from a truſty Friend in the Army.</p>
+            <p>Written on <hi>Munday</hi> morning 24. <hi>Oct.</hi> immediarely afrer the BATTELL.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>Luke Norton,</hi> in the Yeare. MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125254:2"/>
+            <pb n="1" facs="tcp:125254:2"/>
+            <head>A TRVE COPY OF A LETTER Sent Vnto the Right honorable the Lord MAIOR of LONDON, from a truſty Friend in the Army. Written on Munday Morning 24. October im<g ref="char:EOLhyphen"/>mediately after the Battell.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F it will Pleaſe you to accept of a haſty midnight letter from one, who if he had his owne time to command, would never faile to give you an exact account of e<g ref="char:EOLhyphen"/>very thought, the ſmalleſt cir<g ref="char:EOLhyphen"/>cumſtance that ariſeth here, on wedenſday laſt our Army marched out of Worceſter, the King having before wheeled about behinde us from Shrewsbu<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:125254:3"/> by Killingworth, towards Southam; From thence to go to Banbury, and as hee intended or rather pretended to goe toward<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> London, our Ar<g ref="char:EOLhyphen"/>my lay at a place ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven m<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om Warwick, cal<g ref="char:EOLhyphen"/>led Kinton, having layen the night before at Strat<g ref="char:EOLhyphen"/>ford upon Avon, the King l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame night three miles before them neere Banbury: this morning the Lord Generall began to move, with the Body of his Army toward the Kings, when, on the ſud<g ref="char:EOLhyphen"/>daine about eight of the clock, an alarum comes to us that the King would give us Battell, immedi<g ref="char:EOLhyphen"/>ately our forces were with the beſt expedition that could bee put into a battalia, and the Kings Forces came marching down a hill, of vvhich they had a great advantage, could they have kept it, be<g ref="char:EOLhyphen"/>ſides the winde vvas for them, and drevv neere to us. All things were not in order on both parts till about one a clock in the afternoone, and from that time forvvard till ſix of the clock vve had as bloody a battel as can poſsibly be imagined, the ordinance played one upon the other all the time, vvee gave them tvvo ſhoots for one, and their ordinance bleſ<g ref="char:EOLhyphen"/>ſed be the God of battels, did us ſcarcely any hurt at all, vvhereas vve ſcarcely diſcharged avvy a bul<g ref="char:EOLhyphen"/>let in vaine, our Foot vvas flanked on the right and left Wing, vvith, horſe and Dragonners; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> left
+<pb n="3" facs="tcp:125254:3"/> Wing of the horſe; after the fight had beene about an hour, were drawn up to ſervice, and before they diſcharged once ran away, whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had like utterly to have undone us, for wee truſted very much up<g ref="char:EOLhyphen"/>on our horſe, but the wiſe diſpoſer of victories, was pleaſed to determine it otherwaies, our right Wing held it out bravely, and our Foote even to a miracle plied their buſineſſe ſo well, that it ſeemed to be for the ſpace o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> four hours only one continu<g ref="char:EOLhyphen"/>ed Peal of thunder. However ſo it was that the un<g ref="char:EOLhyphen"/>worthy retreat of our left Wing made us all deſpair al this day of the buſines: the Cavalleers came on, and fired ſome of our Waggons, and tooke all the reſt, and took ſix pieces of our beſt cannons, when on the ſudden our men advanced bravely againe, and retook our Waggons, and all our cannons that we had loſt, and three more pieces beſides of the enemies, this eveniug we beat them cleare out of the field, and remain maſters of it, though they had a greater number of combatants both of horſe and Foote then we, and many more ordinance, there are very many ſlain on both ſides, yet it is credibly reported, there are two of theirs ſlaine for one of ours, though both charged bravely and like vali<g ref="char:EOLhyphen"/>ant men, I cannot give the number of them, though ſure I am, very much blood is ſpilt: we have taken
+<pb n="4" facs="tcp:125254:4"/> priſoner their General of the field, the Earl of Lin<g ref="char:EOLhyphen"/>ſey, and his eldeſt ſon the Lord Willoughby, Col<g ref="char:EOLhyphen"/>lonel Lunsford, and Collonell Vavaſor, which laſt are here in warwick Caſtle, we have taken alſo the Kings Standard, wee have loſt no man of note, but Collonell Charle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eſſex, wee thinke alſo Sir James Ramſey, for he cannot be found, Collonell Vavaſour told me immediatly before rhe writing of this Letter, that the King himſelfe was for a time (how long he cannot ſay) in the field: it is ſaid by ſome Prince Robert is ſlaine, how true it is I dare not yet affirme, we had about 50. Troops of horſe in the field, and two Regiments of Foot, and two of Dragoneers, tvvo Regiments came not up, but are freſh, to charge to morrovv morning, vvhen we do expect as hot ſervice as any we have yet had, and I doubt not but the Lord vvill crovvn the day vvith a glorious victory. This Lords day at night, at the concluſion of the Battell I came out of the field about an houre after Sun-ſet, it is novv grovv<g ref="char:EOLhyphen"/>ing tovvards morning, it is time I ſhould take my leave.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
